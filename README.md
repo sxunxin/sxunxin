@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm SeungMin</h1>
+<h1 align="Seungmin</h1>
+<h1안녕하세요! 황승민입니다.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sxunxin&label=Profile%20views&color=0e75b6&style=flat" alt="sxunxin" /> </p>
 
