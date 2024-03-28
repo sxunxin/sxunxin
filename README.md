@@ -28,7 +28,7 @@
 
 <br/><br>
 ### 📞 CONTACT 📞
-<a href="whang31658718@gmail.com">
+<a href="mailto:whang31658718@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr" alt="Gmail Badge" style="width:60pt;">
 </a>
 
