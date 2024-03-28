@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=SeungMin&reversal=false)
 
-## 안녕하세요! 황승민입니다.
+# 안녕하세요! 황승민입니다.
 <br/><br>
 
-#### 📚 STACKS 📚
+### 📚 STACKS 📚
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -23,11 +23,11 @@
 </br>
 
 <br/><br>
-#### ⭐️ STATS ⭐️
+### ⭐️ STATS ⭐️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxunxin&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <br/><br>
-#### 📞 CONTACT 📞
+### 📞 CONTACT 📞
 <a href="whang31658718@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr" alt="Gmail Badge" style="width:60pt;">
 </a>
