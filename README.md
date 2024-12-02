@@ -24,7 +24,7 @@
 
 <br/><br>
 ### ⭐️ STATS ⭐️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxunxin&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hwangsm2386)](https://solved.ac/hwangsm2386)
 
 <br/><br>
 ### 📞 CONTACT 📞
