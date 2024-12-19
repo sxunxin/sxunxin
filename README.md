@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=SeungMin&reversal=false)
 
-# 안녕하세요! 황승민입니다.
+# 안녕하세요. 황승민입니다.
 <br/><br>
 
 ### 📚 STACKS 📚
