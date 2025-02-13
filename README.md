@@ -1,7 +1,9 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=SeungMin&reversal=false)
-Hello.
+  ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=SeungMin&reversal=false)
+  
+  Hello.
+
 <br/><br>
 
 ### 📚 STACKS 📚
