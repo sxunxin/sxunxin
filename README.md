@@ -32,4 +32,6 @@
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr" alt="Gmail Badge" style="width:60pt;">
 </a>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsxunxin&count_bg=%23D7D7D7&title_bg=%239A9A9A&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true"/></a>
+
 </div>
