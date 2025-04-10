@@ -1,13 +1,12 @@
-<div align=center> 
+<br/><br>
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=SeungMin&reversal=false)
-  
- # Hello.
+<div align="center">  
+
+## 안녕하세요 황승민입니다.
 
 <br/><br>
 
 ### 📚 STACKS 📚
-
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -37,3 +36,4 @@
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr" alt="Gmail Badge" style="width:60pt;">
 </a>
 </div>
+
