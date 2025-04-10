@@ -32,6 +32,8 @@
 <br/><br>
 ### ⭐️ STATS ⭐️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hwangsm2386)](https://solved.ac/hwangsm2386)
+<br/><br>
+![sxunxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxunxin&show_icons=true&theme=catppuccin_mocha) 
 
 <br/><br>
 ### 📞 CONTACT 📞
